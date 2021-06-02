@@ -8,8 +8,6 @@
     </div>
 </template>
 
-
-
 <style scoped>
 .nav {
   display: flex;
